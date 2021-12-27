@@ -1,4 +1,4 @@
-# Get the base gcc image from Docker Hub
+
 FROM gcc:latest
 
 # Copy the current folder which contains C++ source code to the Docker image under /usr/src
